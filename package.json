@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "sass": "^1.100.0",
     "vitepress": "^1.6.4"
   },
   "scripts": {
